@@ -1,0 +1,7 @@
+ssh eda211039@10.100.2.12
+4L1c2X
+ap number of colume
+ai position
+ax value of 
+ These are integer arrays of size n. n = col =row = x
+The array B is stored in column major order, with a leading dimension of ldim, and nrhs columns
